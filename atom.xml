@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Texiscape]]></title>
   <link href="http://texiscape.github.io/atom.xml" rel="self"/>
   <link href="http://texiscape.github.io/"/>
-  <updated>2014-08-22T15:48:57-05:00</updated>
+  <updated>2014-08-22T15:56:58-05:00</updated>
   <id>http://texiscape.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mark Morga & Tara Morga]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
